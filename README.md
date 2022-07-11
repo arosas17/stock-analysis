@@ -7,13 +7,15 @@ A couple want to invest into green energy companies, believing that as more reso
 
 
 ## Results
+![VBA_Challenge_2017_Results](/Resources/VBA_Challenge_2017_Results.png)
+![VBA_Challenge_2018_Results](/Resources/VBA_Challenge_2018_Results.png)
+
+Based on the results seen in the images above over the two years of 2017 and 2018, green energy stocks have been doing very well overall. In 2017, all but one stock had a green cell color indicating that those stoack gained value. However, not only did these stocks gain value, but some large gains such as 199.4%, 129.5%, and even 23.1% can be considered a large gain. However, most of the stocks made a loss in 2018. This loss is still acceptable as losses in 2018 is not as large as the gains in 2017. For example, DQ had a large gain of 199.4% in 2017 but had a loss of 62.6% in 2018. Although, it would have been perferable that it would only see positive trends, DQ overall made a profit for anyone who invested in them in the 2017 market. This pattern is shown in many of the stocks with some few exceptions where the trend seem to have an overall decrease in value. The total daily volumes does not actually state too much because most of the volume given in 2018 shows moderate jumps and drops in volume. There are a few stocks that had major movement. These would be ENPH, jumping from a 220,000,000 total daily volume to a 610,000,000 total daily volume, and RUN, from a 270,000,000 total daily volume to a 500,000,000 total daily volume.
 
 ![VBA_Challenge_2017](/Resources/VBA_Challenge_2017.png)
 ![VBA_Challenge_2018](/Resources/VBA_Challenge_2018.png)
 ![VBA_Challenge_2017_unrefactored](/Resources/VBA_Challenge_2017(Unrefactored).png)
 ![VBA_Challenge_2018_unrefactored](/Resources/VBA_Challenge_2018(Unrefactored).png)
-![VBA_Challenge_2018_Results](/Resources/VBA_Challenge_2018_Results.png)
-![VBA_Challenge_2017_Results](/Resources/VBA_Challenge_2017_Results.png)
 
 
 : Using images and examples of your code, compare the stock performance between 2017 and 2018, as well as the execution times of the original script and the refactored script.
