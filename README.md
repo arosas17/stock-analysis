@@ -12,22 +12,18 @@ A couple want to invest into green energy companies, believing that as more reso
 
 Based on the results seen in the images above over the two years of 2017 and 2018, green energy stocks have been doing very well overall. In 2017, all but one stock had a green cell color indicating that those stoack gained value. However, not only did these stocks gain value, but some large gains such as 199.4%, 129.5%, and even 23.1% can be considered a large gain. However, most of the stocks made a loss in 2018. This loss is still acceptable as losses in 2018 is not as large as the gains in 2017. For example, DQ had a large gain of 199.4% in 2017 but had a loss of 62.6% in 2018. Although, it would have been perferable that it would only see positive trends, DQ overall made a profit for anyone who invested in them in the 2017 market. This pattern is shown in many of the stocks with some few exceptions where the trend seem to have an overall decrease in value. The total daily volumes does not actually state too much because most of the volume given in 2018 shows moderate jumps and drops in volume. There are a few stocks that had major movement. These would be ENPH, jumping from a 220,000,000 total daily volume to a 610,000,000 total daily volume, and RUN, from a 270,000,000 total daily volume to a 500,000,000 total daily volume.
 
-![VBA_Challenge_2017](/Resources/VBA_Challenge_2017.png)
-![VBA_Challenge_2018](/Resources/VBA_Challenge_2018.png)
+
+### Times to run in orginal code
 ![VBA_Challenge_2017_unrefactored](/Resources/VBA_Challenge_2017(Unrefactored).png)
 ![VBA_Challenge_2018_unrefactored](/Resources/VBA_Challenge_2018(Unrefactored).png)
 
+### Times to run in refactored code
+![VBA_Challenge_2017](/Resources/VBA_Challenge_2017.png)
+![VBA_Challenge_2018](/Resources/VBA_Challenge_2018.png)
 
-: Using images and examples of your code, compare the stock performance between 2017 and 2018, as well as the execution times of the original script and the refactored script.
-
-
-
-
+As mentioned before, the orginal script was refactored to order to make the Macro run smoother. The images above show that this was acheived by providing a decrease in run time from the original. The run time decrased from about 1.11 seconds to as low as the 0.12 seconds, which is almost a factor of 10. This suggests that the refactored script will run a little less than 10 times faster than the orginal. Now if the number of stocks in the list were to increase immensely, the refactored Macro will be better suited to handle it.  
 
 ## Summary
-
-In a summary statement, address the following questions.
-What are the advantages or disadvantages of refactoring code?
 
 There are a few advantages in refactoring code such as, to make the code more organized and fluid. Refactoring code will give opportunity to make things easier to read. There is also some benefits in getting the code to run better. If the refactored and original Macros are compared, it is noticed that the refactored code has a faster run time than the original. It makes close no difference in time with the list at the moment, but if the list was ballooned to size that dwarfs its predecessor, the difference in time could be noticeable.
 
