@@ -8,6 +8,14 @@ A couple want to invest into green energy companies, believing that as more reso
 
 ## Results
 
+![VBA_Challenge_2017](/Resources/VBA_Challenge_2017.png)
+![VBA_Challenge_2018](/Resources/VBA_Challenge_2018.png)
+![VBA_Challenge_2017_unrefactored](/Resources/VBA_Challenge_2017(Unrefactored).png)
+![VBA_Challenge_2018_unrefactored](/Resources/VBA_Challenge_2018(Unrefactored).png)
+![VBA_Challenge_2018_Results](/Resources/VBA_Challenge_2018_Results.png)
+![VBA_Challenge_2017_Results](/Resources/VBA_Challenge_2017_Results.png)
+
+
 : Using images and examples of your code, compare the stock performance between 2017 and 2018, as well as the execution times of the original script and the refactored script.
 
 
